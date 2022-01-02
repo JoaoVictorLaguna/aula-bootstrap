@@ -1,0 +1,27 @@
+body {
+    font: 20px arial,sans-serif;
+}
+.navbar{
+    background-color: lavender;
+}
+
+.quem-somos{
+
+    background-color: rgb(250, 68, 68);
+    color: darkgray;
+}
+
+
+.margin{
+
+padding-bottom: 50px;
+padding-top: 10px;
+}
+
+.produtos{
+    background-color: goldenrod;
+}
+.bg-footer{
+background-color: rgb(236, 195, 178);
+
+}
